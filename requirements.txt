@@ -1,0 +1,16 @@
+numpy
+scipy
+networkx
+pandas
+pyyaml
+matplotlib
+pymoo
+rich
+loguru
+
+pytest
+pytest-cov
+
+black
+ruff
+mypy
